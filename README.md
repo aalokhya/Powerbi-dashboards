@@ -26,6 +26,6 @@ The **Sales Dashboard** provides insights into:
 
 ## 📷 Dashboard Preview
 
-![Sales Dashboard](sales_dashboard.png)
+![Sales Dashboard](Sales_dashboard.png)
 
 ✨ Feedback is welcome! This is my first Power BI dashboard, and I’m looking forward to improving it further.
